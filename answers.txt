@@ -1,0 +1,4 @@
+Line: 1         Value: 5.987e+06 Mean: 5.987e+06 Variance: 0
+Line: 100       Value: 5.987e+06 Mean: 5.987e+06 Variance: 0.000502519
+Line: 1000000   Value: 5.987e+06 Mean: 5.987e+06 Variance: 0.0005
+Result of Line 500000000 is too long to wait on my old laptop :-)
